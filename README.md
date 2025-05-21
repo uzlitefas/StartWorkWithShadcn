@@ -1,2 +1,1 @@
-# StartWorkWithShadcn
-shadcn, routers, tailwind.
+
